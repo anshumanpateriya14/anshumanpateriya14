@@ -7,7 +7,9 @@ Ps: Every bug has a story (and a fix!)
 Forever ready to code, collab, and cook up ideas that do something cool❤
 # 💡 Looking For
 🤝 Collabs on impactful, open-source or indie projects
+
 📦 Internships or Entry-Level Software Roles where I can ship code that matters
+
 🧩 Teams that value ownership, curiosity, and clean commit messages
 
 ## 🌐 Socials:
